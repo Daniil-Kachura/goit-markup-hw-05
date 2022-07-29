@@ -118,6 +118,9 @@ body {
   line-height: 1.19;
   color: var(--hover-color);
 }
+.logo-start:hover{
+  transform: scale(1.3);
+}
 
 .logo-end {
   color: var(--active-btn-text);
